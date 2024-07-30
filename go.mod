@@ -1,4 +1,4 @@
-module kube-taint-parser
+module github.com/emre-aydin/kube-taint-parser
 
 go 1.22.0
 
